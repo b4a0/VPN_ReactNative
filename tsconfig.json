@@ -1,0 +1,7 @@
+{
+    "extends": "@tsconfig/react-native/tsconfig.json" ,
+    "compilerOptions": {    
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true
+  }
+  }

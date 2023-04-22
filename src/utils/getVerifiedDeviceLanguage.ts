@@ -1,0 +1,25 @@
+//get country code from locale code
+export const getVerifiedDeviceLanguage = (deviceLanguage: string) => {
+    return deviceLanguage === 'ja'
+        ? 'jp'
+        : deviceLanguage === 'zh'
+            ? 'cn'
+            : deviceLanguage === 'hi'
+                ? 'in'
+                : deviceLanguage === 'ko'
+                    ? 'kr'
+                    : deviceLanguage === 'de'
+                        ? 'de'
+                        : deviceLanguage === 'es'
+                            ? 'es'
+                            : deviceLanguage === 'pt'
+                                ? 'pt'
+                                : deviceLanguage === 'id'
+                                    ? 'id'
+                                    : deviceLanguage === 'ru'
+                                        ? 'ru'
+                                        : deviceLanguage === 'uk'
+                                            ? 'ua'
+                                            : 'gb'
+
+}

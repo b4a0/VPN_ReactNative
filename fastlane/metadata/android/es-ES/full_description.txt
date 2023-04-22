@@ -1,0 +1,33 @@
+¿Qué es una VPN?
+VPN significa "red privada virtual", un servicio que protege su conexión a Internet y su privacidad en línea. Las VPN crean un túnel encriptado para sus datos, protegen su identidad en línea ocultando su dirección IP y le permiten usar puntos de acceso Wi-Fi públicos de manera segura.
+
+Open source VPN: la mejor VPN segura y gratuita para desbloquear sitios web y aplicaciones, acceder al bloqueo de redes sociales, acelerar su juego móvil y proteger su red o punto de acceso Wi-Fi.
+
+¿Por qué es Open Source VPN?
+Open Source VPN es una aplicación GRATUITA, rápida y fácil de usar.
+
+Para conectarse al servidor VPN, debe seleccionar un país y luego seleccionar el servidor y hacer clic en el botón de conexión.
+
+Características clave:
+• La aplicación tiene 60 países con más de 400 servidores
+• La aplicación es completamente gratuita
+• No es necesario crear una cuenta
+• Sin restricciones de tráfico y velocidad
+• Busca el servidor más cercano con el tiempo de conexión más rápido
+• Confiabilidad y estabilidad de la conexión
+• Máximo anonimato y confidencialidad
+• Código fuente abierto
+• Sin anuncios
+• Fácil de usar
+
+Aplicación en varios idiomas Idiomas compatibles con Open source VPN
+• ruso
+• Inglés
+• Japón
+• Chino simplificado
+• Hindi
+• Coreano
+• Alemán
+• Español
+• Portugués
+• Indonesio
