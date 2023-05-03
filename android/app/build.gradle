@@ -267,9 +267,6 @@ android {
         getByName("main") {
             assets.srcDirs("src/main/assets", "build/ovpnassets")
         }
-        getByName("app") {
-            assets.srcDirs("src/main/assets", "build/ovpnassets")
-        }
     }
 }
 
