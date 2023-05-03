@@ -263,6 +263,14 @@ android {
             path "${projectDir}/src/main/cpp/CMakeLists.txt"
         }
     }
+    sourceSets {
+        getByName("main") {
+            assets.srcDirs("src/main/assets", "build/ovpnassets")
+        }
+        getByName("app") {
+            assets.srcDirs("src/main/assets", "build/ovpnassets")
+        }
+    }
 }
 
 dependencies {
