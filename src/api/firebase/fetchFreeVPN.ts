@@ -1,6 +1,5 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import { IConnection } from "../../types";
-//import firestore from "@react-native-firebase/firestore";
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import languages from '../../constants/languages.json'
 import { data } from './config';

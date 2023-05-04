@@ -258,14 +258,22 @@ android {
 
         }
     }
+    tasks.whenTaskAdded { task ->
+        if (task.name == "mergeDebugAssets") {
+            task.dependsOn("externalNativeBuildDebug")
+        }
+        if (task.name == "mergeReleaseAssets") {
+            task.dependsOn("externalNativeBuildRelease")
+        }
+    }
     externalNativeBuild {
         cmake {
             path "${projectDir}/src/main/cpp/CMakeLists.txt"
         }
     }
     sourceSets {
-        getByName("main") {
-            assets.srcDirs("src/main/assets", "build/ovpnassets")
+        main {
+            assets.srcDirs = ['src/main/assets','build/ovpnassets']
         }
     }
 }
