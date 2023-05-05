@@ -72,10 +72,22 @@ countries: {
 ```
 
 ###### You can add a country only if it is included in this list!
-### 2. Install modules and run
+### 2. Install modules, Cmake, Swig and run
 
 ```JavaScript
 npm install
 npm start
 npx react-native run-android
 ```
+
+## License
+
+Open Source VPN
+
+Copyright ©2023 Global mobile apps.
+
+Open Source VPN is a commercial open-source app, available under the [GPLv3 license](https://choosealicense.com/licenses/gpl-3.0/). Our intention is to provide the maximal possible transparency: you can personally audit the code and build your own binary.
+
+While derivative works (forks) are explicitly allowed by the GPL, please don't submit them to AppStore and Google Play. Due to a conflict between GPL and AppStore and Google Play terms of service, GPL-licensed apps are [banned](https://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement) from AppStore and Google Play. For the same reason, Open Source VPN [cannot accept code contributions](https://apple.stackexchange.com/questions/6109/is-it-possible-to-have-gpl-software-in-the-mac-app-store).
+
+For commercial licensing or custom modifications, please [contact us](https://vpn.llill.xyz/).
